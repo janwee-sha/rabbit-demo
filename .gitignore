@@ -38,3 +38,6 @@ out/
 ### VS Code ###
 .vscode/
 /config-server/.mvn/
+
+### compiled target
+/rabbit-native-java/target/
